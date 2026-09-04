@@ -7,7 +7,7 @@ about:
   head: d1f63b4
   archived: false
   latestVersion: v0.13.0
-  collectedAt: 2026-09-04T19:26:26Z
+  collectedAt: 2026-09-04T21:10:42Z
 timeline:
   created: 2015-11-10
   lastCommit: 2026-09-04
@@ -83,6 +83,49 @@ total:
   openIssue: 27
   commit: 1080
 ---
+path: /home/runner/.x-repo/github.com/moncho/dry
+collectedAt: 2026-09-04T21:10:44Z
+loc:
+  Go:
+    code: 30647
+    comments: 3844
+    blanks: 3560
+    files: 150
+  Sh:
+    code: 350
+    comments: 16
+    blanks: 62
+    files: 1
+  Makefile:
+    code: 46
+    comments: 4
+    blanks: 16
+    files: 1
+  Toml:
+    code: 29
+    comments: 0
+    blanks: 1
+    files: 1
+  Yaml:
+    code: 22
+    comments: 0
+    blanks: 3
+    files: 1
+  Dockerfile:
+    code: 12
+    comments: 1
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 556
+    blanks: 217
+    files: 6
+total:
+  code: 31106
+  comments: 4421
+  blanks: 3865
+  files: 161
 ---
 date: "2026-08-24"
 repo:
