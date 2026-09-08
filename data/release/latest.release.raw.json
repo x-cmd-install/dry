@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 18955778,
       "digest": "sha256:bff562b040501e2850383ceb734b5fe76dfe56a12202e9dc544c0f84c9e515cb",
-      "download_count": 135,
+      "download_count": 136,
       "created_at": "2026-03-29T16:29:29Z",
       "updated_at": "2026-03-29T16:29:30Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-darwin-arm64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 19447970,
       "digest": "sha256:c160dea554c74544f68f1de5d406a9d211462caa75cab46c2ae8a46df28e0e36",
-      "download_count": 2896,
+      "download_count": 2908,
       "created_at": "2026-03-29T16:29:29Z",
       "updated_at": "2026-03-29T16:29:30Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-amd64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 5192886,
       "digest": "sha256:6887484abc5a1413f9da8071cf7fefc35fa66e152c49d98f64590b15f8d09e4c",
-      "download_count": 154,
+      "download_count": 156,
       "created_at": "2026-03-29T16:29:33Z",
       "updated_at": "2026-03-29T16:29:34Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-amd64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 18612386,
       "digest": "sha256:cb3c466b1bda509155b66361bd00c131da8699aeaa8a2b70196b51cd6555991d",
-      "download_count": 168,
+      "download_count": 169,
       "created_at": "2026-03-29T16:29:29Z",
       "updated_at": "2026-03-29T16:29:30Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-arm64"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 4745610,
       "digest": "sha256:cc3863b7ae02a846815846ae833effb08d54aec5bbb2fca56ec26d4ac2c7caf1",
-      "download_count": 77,
+      "download_count": 78,
       "created_at": "2026-03-29T16:29:32Z",
       "updated_at": "2026-03-29T16:29:33Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-arm64.tar.gz"
