@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 18579618,
       "digest": "sha256:e44f365be129b4f1510a37fc5e306e31e78b82427647651466449519c8b0faec",
-      "download_count": 71,
+      "download_count": 72,
       "created_at": "2026-03-29T16:29:30Z",
       "updated_at": "2026-03-29T16:29:31Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-386"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 19447970,
       "digest": "sha256:c160dea554c74544f68f1de5d406a9d211462caa75cab46c2ae8a46df28e0e36",
-      "download_count": 2932,
+      "download_count": 2955,
       "created_at": "2026-03-29T16:29:29Z",
       "updated_at": "2026-03-29T16:29:30Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-amd64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 5192886,
       "digest": "sha256:6887484abc5a1413f9da8071cf7fefc35fa66e152c49d98f64590b15f8d09e4c",
-      "download_count": 158,
+      "download_count": 160,
       "created_at": "2026-03-29T16:29:33Z",
       "updated_at": "2026-03-29T16:29:34Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-amd64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 18743458,
       "digest": "sha256:a57614cd8fb72ac480a34377c9e868a54201b1249b002d423d806f90581136d1",
-      "download_count": 52,
+      "download_count": 53,
       "created_at": "2026-03-29T16:29:30Z",
       "updated_at": "2026-03-29T16:29:32Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-armv6"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 18743458,
       "digest": "sha256:8d8c65e2f582462ee4632703be17ca59a3b4fcb932ebe3a879b2a86b437c431f",
-      "download_count": 72,
+      "download_count": 73,
       "created_at": "2026-03-29T16:29:29Z",
       "updated_at": "2026-03-29T16:29:30Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-armv7"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 19961344,
       "digest": "sha256:c313b98530e9106ec7545a4cf7d44de4b1c8a5c2214faf51c7663c37a5dfeced",
-      "download_count": 33,
+      "download_count": 36,
       "created_at": "2026-03-29T16:29:31Z",
       "updated_at": "2026-03-29T16:29:32Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-windows-amd64.exe"
