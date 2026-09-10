@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.13.0"
   latestRelease: "v0.13.0"
   latestPrerelease: "v0.3-beta.4"
-  collectedAt: 2026-09-10T21:01:57Z
+  collectedAt: 2026-09-10T22:48:12Z
 timeline:
   created: 2015-11-10
   lastCommit: 2026-09-04
@@ -86,7 +86,7 @@ total:
   commit: 1080
 ---
 path: /home/runner/.x-repo/github.com/moncho/dry
-collectedAt: 2026-09-10T21:02:03Z
+collectedAt: 2026-09-10T22:48:15Z
 loc:
   Go:
     code: 30647
