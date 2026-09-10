@@ -1,62 +1,62 @@
 # dry
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 dry - A Docker manager for the terminal @
 
-![dry](https://repo.x-cmd.io/dry.svg)
+![dry](https://repo.x-cmd.io/dry.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install dry
 ```
 
-## Code insight
+## 代码规模
 
-Total: **31,106** lines of code across **154** files in the top 5 languages.
+合计: **31,106** 行代码（覆盖前 5 种语言、共 **154** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Go | 30,647 | 3,844 | 3,560 | 150 |
 | Sh | 350 | 16 | 62 | 1 |
 | Makefile | 46 | 4 | 16 | 1 |
 | Toml | 29 | 0 | 1 | 1 |
 | Yaml | 22 | 0 | 3 | 1 |
 
-## OpenSSF Scorecard
+## OpenSSF Scorecard 评分
 
-Overall score: **4.2 / 10**
+总评分: **4.2 / 10**
 
-Lowest-scoring checks:
+评分最低的几项:
 
 - **Code-Review** (0/10) — Found 1/30 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/moncho/dry>
-- **Homepage**: <http://moncho.github.io/dry/>
-- **License**: MIT
+- **上游仓库**: <https://github.com/moncho/dry>
+- **官网**: <http://moncho.github.io/dry/>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `v0.13.0` (2026-03-29)
-- **Last commit**: 2026-09-04
-- **Assets in release**: 21
+- **最新版本**: `v0.13.0` (2026-03-29)
+- **最近提交**: 2026-09-04
+- **Release 含资产**: 21 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 3,276 · **Forks**: 103 · **Open issues**: 115 · **Contributors**: 25
+- **Star**: 3,276 · **Fork**: 103 · **开放 issue**: 115 · **贡献者**: 25
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 57 · **Merged PRs**: 129 · **Open PRs**: 0 · **Closed issues**: 88 · **Open issues**: 27 · **Commits**: 1080
+- **发布数**: 57 · **已合并 PR**: 129 · **开放 PR**: 0 · **已关闭 issue**: 88 · **开放 issue**: 27 · **提交数**: 1080
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 27 | 0 | 0 | 0 | 27 |
 | last60d | 2026-07-12 | 0 | 27 | 0 | 0 | 0 | 27 |
@@ -65,10 +65,10 @@ Lowest-scoring checks:
 | 360d | 2025-09-15 | 4 | 60 | 0 | 1 | 2 | 62 |
 | last720d | 2024-09-20 | 4 | 63 | 0 | 2 | 4 | 65 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [dry-darwin-amd64](https://github.com/moncho/dry/releases/download/v0.13.0/dry-darwin-amd64) | 18.8 MiB | `native/darwin/x64` |
 | [dry-darwin-amd64.tar.gz](https://github.com/moncho/dry/releases/download/v0.13.0/dry-darwin-amd64.tar.gz) | 5.0 MiB | `native/darwin/x64` |
 | [dry-darwin-arm64](https://github.com/moncho/dry/releases/download/v0.13.0/dry-darwin-arm64) | 18.1 MiB | `native/darwin/arm64` |
@@ -91,22 +91,22 @@ Lowest-scoring checks:
 | [dry-windows-amd64.zip](https://github.com/moncho/dry/releases/download/v0.13.0/dry-windows-amd64.zip) | 5.1 MiB | `native/win/x64` |
 | [dry_checksums.txt](https://github.com/moncho/dry/releases/download/v0.13.0/dry_checksums.txt) | 1.7 KiB | `other` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **10** distros on [repology.org](https://repology.org/project/dry). **4** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/dry) 上共有 **10** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**4** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Homebrew | `HEAD` | 🔄 rolling |
 | Nix unstable | `0.13.0` | ✅ latest |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for dry lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dry` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+dry 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `dry` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/dry.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/dry.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:02:14Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:02:15Z._
