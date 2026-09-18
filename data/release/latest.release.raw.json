@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4973403,
       "digest": "sha256:69c18865b9b96a726ca7491445bb8a7982c3624c30e9bd60fbd0929d16775eb4",
-      "download_count": 251,
+      "download_count": 252,
       "created_at": "2026-03-29T16:29:34Z",
       "updated_at": "2026-03-29T16:29:34Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-darwin-arm64.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 19447970,
       "digest": "sha256:c160dea554c74544f68f1de5d406a9d211462caa75cab46c2ae8a46df28e0e36",
-      "download_count": 3064,
+      "download_count": 3083,
       "created_at": "2026-03-29T16:29:29Z",
       "updated_at": "2026-03-29T16:29:30Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-amd64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 5192886,
       "digest": "sha256:6887484abc5a1413f9da8071cf7fefc35fa66e152c49d98f64590b15f8d09e4c",
-      "download_count": 188,
+      "download_count": 189,
       "created_at": "2026-03-29T16:29:33Z",
       "updated_at": "2026-03-29T16:29:34Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-amd64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 18612386,
       "digest": "sha256:cb3c466b1bda509155b66361bd00c131da8699aeaa8a2b70196b51cd6555991d",
-      "download_count": 175,
+      "download_count": 176,
       "created_at": "2026-03-29T16:29:29Z",
       "updated_at": "2026-03-29T16:29:30Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-arm64"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 5358315,
       "digest": "sha256:1ec596e227f49011893a9e8b27eb285197da9567cc67312880dfd780ca0bce8e",
-      "download_count": 95,
+      "download_count": 96,
       "created_at": "2026-03-29T16:29:32Z",
       "updated_at": "2026-03-29T16:29:33Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-windows-amd64.zip"
