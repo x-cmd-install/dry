@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 19755376,
       "digest": "sha256:c74971e36d0459abf8d45a5067eab4c7e8da4eab1983e7e387b2078da53dd1e1",
-      "download_count": 142,
+      "download_count": 144,
       "created_at": "2026-03-29T16:29:30Z",
       "updated_at": "2026-03-29T16:29:32Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-darwin-amd64"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5280535,
       "digest": "sha256:144d52f151788953cd06cc7f4b9372bbfb5a0baa10b1a0d0b9d81603ae7f4666",
-      "download_count": 50,
+      "download_count": 51,
       "created_at": "2026-03-29T16:29:33Z",
       "updated_at": "2026-03-29T16:29:33Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-darwin-amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 18955778,
       "digest": "sha256:bff562b040501e2850383ceb734b5fe76dfe56a12202e9dc544c0f84c9e515cb",
-      "download_count": 169,
+      "download_count": 170,
       "created_at": "2026-03-29T16:29:29Z",
       "updated_at": "2026-03-29T16:29:30Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-darwin-arm64"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4973403,
       "digest": "sha256:69c18865b9b96a726ca7491445bb8a7982c3624c30e9bd60fbd0929d16775eb4",
-      "download_count": 263,
+      "download_count": 264,
       "created_at": "2026-03-29T16:29:34Z",
       "updated_at": "2026-03-29T16:29:34Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-darwin-arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 18419884,
       "digest": "sha256:5b1c31708dfa1b9897ef692cf10dcaaaf4c3748f3a1448386a3097fbbca764d2",
-      "download_count": 60,
+      "download_count": 62,
       "created_at": "2026-03-29T16:29:31Z",
       "updated_at": "2026-03-29T16:29:31Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-freebsd-386"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 4937265,
       "digest": "sha256:3ba50a20e4efb83df8bd576a18057eaa2d9c8120eab4b2e37b58b8c698696548",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-03-29T16:29:34Z",
       "updated_at": "2026-03-29T16:29:34Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-freebsd-386.tar.gz"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 19386540,
       "digest": "sha256:9204126dadf35f906d075161d140f6bead5be988df0d3430217e364a978765d6",
-      "download_count": 75,
+      "download_count": 76,
       "created_at": "2026-03-29T16:29:32Z",
       "updated_at": "2026-03-29T16:29:33Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-freebsd-amd64"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 5161923,
       "digest": "sha256:87121670e2dc3ba26d8dcc395d8f983798f7a540a961b4273574f26b609f1865",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2026-03-29T16:29:33Z",
       "updated_at": "2026-03-29T16:29:34Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-freebsd-amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 18579618,
       "digest": "sha256:e44f365be129b4f1510a37fc5e306e31e78b82427647651466449519c8b0faec",
-      "download_count": 78,
+      "download_count": 79,
       "created_at": "2026-03-29T16:29:30Z",
       "updated_at": "2026-03-29T16:29:31Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-386"
@@ -391,7 +391,7 @@
       "state": "uploaded",
       "size": 4970018,
       "digest": "sha256:47aff3cbf1b188c3c2562cdc387e87081b2e1c17e6438b0c579a38c6353468d2",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-03-29T16:29:33Z",
       "updated_at": "2026-03-29T16:29:34Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-386.tar.gz"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 19447970,
       "digest": "sha256:c160dea554c74544f68f1de5d406a9d211462caa75cab46c2ae8a46df28e0e36",
-      "download_count": 3509,
+      "download_count": 3524,
       "created_at": "2026-03-29T16:29:29Z",
       "updated_at": "2026-03-29T16:29:30Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-amd64"
@@ -463,7 +463,7 @@
       "state": "uploaded",
       "size": 5192886,
       "digest": "sha256:6887484abc5a1413f9da8071cf7fefc35fa66e152c49d98f64590b15f8d09e4c",
-      "download_count": 228,
+      "download_count": 230,
       "created_at": "2026-03-29T16:29:33Z",
       "updated_at": "2026-03-29T16:29:34Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-amd64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 18612386,
       "digest": "sha256:cb3c466b1bda509155b66361bd00c131da8699aeaa8a2b70196b51cd6555991d",
-      "download_count": 203,
+      "download_count": 204,
       "created_at": "2026-03-29T16:29:29Z",
       "updated_at": "2026-03-29T16:29:30Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-arm64"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 4745610,
       "digest": "sha256:cc3863b7ae02a846815846ae833effb08d54aec5bbb2fca56ec26d4ac2c7caf1",
-      "download_count": 92,
+      "download_count": 93,
       "created_at": "2026-03-29T16:29:32Z",
       "updated_at": "2026-03-29T16:29:33Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-arm64.tar.gz"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 18743458,
       "digest": "sha256:a57614cd8fb72ac480a34377c9e868a54201b1249b002d423d806f90581136d1",
-      "download_count": 54,
+      "download_count": 55,
       "created_at": "2026-03-29T16:29:30Z",
       "updated_at": "2026-03-29T16:29:32Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-armv6"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 5031885,
       "digest": "sha256:10a16207aee09b7f4bcaf329b0f964f6adf7be9ec684727340c097f36d7e1cdc",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-03-29T16:29:33Z",
       "updated_at": "2026-03-29T16:29:33Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-armv6.tar.gz"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 18743458,
       "digest": "sha256:8d8c65e2f582462ee4632703be17ca59a3b4fcb932ebe3a879b2a86b437c431f",
-      "download_count": 74,
+      "download_count": 75,
       "created_at": "2026-03-29T16:29:29Z",
       "updated_at": "2026-03-29T16:29:30Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-armv7"
@@ -679,7 +679,7 @@
       "state": "uploaded",
       "size": 5022304,
       "digest": "sha256:bfcb30cbd1cfe44d8118228bd6834633d1a311bc8608d7018c91d5ed7b88c820",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-03-29T16:29:32Z",
       "updated_at": "2026-03-29T16:29:32Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-linux-armv7.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 19961344,
       "digest": "sha256:c313b98530e9106ec7545a4cf7d44de4b1c8a5c2214faf51c7663c37a5dfeced",
-      "download_count": 50,
+      "download_count": 51,
       "created_at": "2026-03-29T16:29:31Z",
       "updated_at": "2026-03-29T16:29:32Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-windows-amd64.exe"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 5358315,
       "digest": "sha256:1ec596e227f49011893a9e8b27eb285197da9567cc67312880dfd780ca0bce8e",
-      "download_count": 104,
+      "download_count": 105,
       "created_at": "2026-03-29T16:29:32Z",
       "updated_at": "2026-03-29T16:29:33Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry-windows-amd64.zip"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 1719,
       "digest": "sha256:eec039098af20b7f6f3cc1e03ee144f1c632206e257c0ee09ee277f8e2310313",
-      "download_count": 82,
+      "download_count": 83,
       "created_at": "2026-03-29T16:29:34Z",
       "updated_at": "2026-03-29T16:29:34Z",
       "browser_download_url": "https://github.com/moncho/dry/releases/download/v0.13.0/dry_checksums.txt"
